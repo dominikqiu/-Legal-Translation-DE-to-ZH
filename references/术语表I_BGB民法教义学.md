@@ -9,7 +9,7 @@
 
 ### A
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Abbruch von Vertragsverhandlungen | 合同磋商的中断 |
 | Abgabe des Angebots | 要约的作出 |
@@ -20,9 +20,9 @@
 | Abschlussfreiheit | 缔约自由 |
 | abstrakte Schadensberechnung | 抽象的损害计算 |
 | Abstraktionsprinzip | 抽象原则 |
-| Abtretung | 债权让与1215 ff |
+| Abtretung | 债权让与 |
 | Abtretung der Gewährleistungsrechte | 瑕疵担保权利的让与 |
-| Abtretungsverbote | 债权让与的禁止208,1226 ff |
+| Abtretungsverbote | 债权让与的禁止 |
 | Abweichung vom Leitbild des Vertrages | 一般交易条款偏离合同的典型规定 |
 | Abwicklungsverhältnis | 清算关系 |
 | Abzahlungskauf | 分期买卖 |
@@ -40,14 +40,14 @@
 | Anfechtbarkeit des dinglichen Vertrags | 物权合同的可撤销性 |
 | Anfechtung | 撤销 |
 | Anfechtung wegen Eigenschaftsirrtum | 因性质错误撤销 |
-| Anfechtungserklärung | 撤销表示274 ff |
-| Anfechtungsfolgen | 撤销的法律效果388 ff |
-| Anfechtungsfrist | 撤销期限382 ff |
+| Anfechtungserklärung | 撤销表示 |
+| Anfechtungsfolgen | 撤销的法律效果 |
+| Anfechtungsfrist | 撤销期限 |
 | Anfechtungsgegenstand | 撤销标的 |
 | Anfechtungsgegner | 撤销相对人 |
 | Anfechtungsgründe s.Irrtum,Täuschung, Drohung | 撤销原因(参见词条错误 |
-| Angebot | 要约86 ff |
-| Annahme | 承诺110 ff |
+| Angebot | 要约 |
+| Annahme | 承诺 |
 | Annahmeverzug | 受领迟延 |
 | Anrufbeantworter | 电话应答装置 |
 | Anspruch | 请求权 |
@@ -74,41 +74,41 @@
 | Aufwendungsersatz | 费用补偿 |
 | Ausbaupflicht des Verkäufers | 出卖人的拆除义务 |
 | Ausgleichsanspruch | 追偿请求权、补偿请求权 |
-| Auskunftshaftung | 咨询责任520 ff |
+| Auskunftshaftung | 咨询责任 |
 | Auslegung | 解释 |
 | Ausreißer | 异常值 |
 | Ausweichmanöver | 回避行为 |
 | Außenvollmacht | 代理权的外部授予 |
-| Begriff | 一般交易条款的概念246 ff |
+| Begriff | 一般交易条款的概念 |
 | Benachteiligungsverbot | 劳动合同中的歧视禁止 |
 | Bestimmtheit | 要约的确定性 |
 | Bindung | 要约的拘束力 |
-| Einbeziehung | 一般交易条款的订入250 ff |
+| Einbeziehung | 一般交易条款的订入 |
 | Erlöschen durch Ablehnung | 要约因被拒绝而消灭 |
 | Erlöschen durch Tod oder Geschäftsunfähigkeit des Offerenten | 要约因要约人死亡或丧 失行为能力而消灭 |
-| Erlöschen durch Widerruf | 要约因撤回而消灭101 ff |
+| Erlöschen durch Widerruf | 要约因撤回而消灭 |
 | Erlöschen durch Zeitablauf | 要约因期间经过而消灭 |
-| Funktion und Schutzzweck | 一般交易条款的功能与保护目的241 ff |
+| Funktion und Schutzzweck | 一般交易条款的功能与保护目的 |
 | Gegenseitigkeit | 相互性 |
 | Gesellschaftsverträge | 合伙协议的撤销 |
 | Gleichartigkeit | 同一性 |
 | Individualvereinbarung | 一般交易条款中的个别约定 |
-| Inhaltskontrolle | 一般交易条款的内容审查264 ff |
-| Klauseln | 一般交易条款的解释259 ff |
+| Inhaltskontrolle | 一般交易条款的内容审查 |
+| Klauseln | 一般交易条款的解释 |
 | Kündigungsschutz | 解雇保护 |
 | Leistungsbeschreibung | 一般交易条款的给付说明 |
 | Lieferung | 另物送交 |
-| Rechtsfolgen der Ungültigkeit | 一般交易条款无效的法律后果278 ff |
+| Rechtsfolgen der Ungültigkeit | 一般交易条款无效的法律后果 |
 | Rückwirkungseffekt | 抵销的回溯效力 |
-| Schadensersatzpflicht des Anfechtenden | 撤销人的损害赔偿义务333 f.,359 ff |
+| Schadensersatzpflicht des Anfechtenden | 撤销人的损害赔偿义务 |
 | Schriftformklauseln | 一般交易条款的书面条款 |
 | Schäden als Aufwendungen | 作为费用的损害 |
-| Wirksamwerden | 要约的生效90 ff |
+| Wirksamwerden | 要约的生效 |
 | Äquivalenzinteresse | 等值利益 |
 
 ### B
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Aufklärung über Bürgschaftsrisiken | 对保证风险的说明 |
 | Bankvollmacht | 银行代理权 |
@@ -120,7 +120,7 @@
 | Bereicherungsanspruch | 不当得利请求权 |
 | Beschaffenheit | 品质 |
 | Beschaffenheitsgarantie | 品质担保 |
-| Beschaffenheitsrisiko | 特性风险305,792 ff.,811,1072,1084,1096,1101 ff |
+| Beschaffenheitsrisiko | 特性风险 |
 | Beschaffenheitsvereinbarung | 品质约定 |
 | Beschaffungspflicht | 置备义务 |
 | Besitz | 占有 |
@@ -143,14 +143,14 @@
 | Bösgläubigkeit | 恶意 |
 | Bürgschaft | 保证 |
 | Drohungsanfechtung | 保证合同中对胁迫的撤销 |
-| Formerfordernis | 保证合同的形式要求172 f.,425,470,1269 ff |
+| Formerfordernis | 保证合同的形式要求 |
 | Irrtumsanfechtung | 保证合同中对错误的撤销 |
 | Klausel | 保证合同中反常的一般交易条款 |
 | Täuschungsanfechtung | 保证合同中对欺诈的撤销 |
 
 ### C
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Causa | 原因 |
 | Causa donandi | 赠与的原因 |
@@ -172,7 +172,7 @@
 
 ### D
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Darlegungslast | 说明责任 |
 | Darlehen | 借贷 |
@@ -189,13 +189,13 @@
 | dinglicher Vertrag | 物权合同 |
 | Diskriminierung | 歧视 |
 | dispositives Vertragsrecht | 任意性的合同法 |
-| Dissens | 不合意126 ff |
+| Dissens | 不合意 |
 | Do ut des | 给付的牵连性 |
 | Doppelabtretung | 债权双重让与 |
 | Doppelverkauf | 一物二卖 |
 | Dreiecksverhältnis | 三角关系 |
 | Drittschadensliquidation | 第三人损害清算 |
-| Drohung | 胁迫38,364 ff |
+| Drohung | 胁迫 |
 | Due Diligence | 尽职调查 |
 | Duldungsvollmacht | 容忍代理权 |
 | Durchgriff | 直索 |
@@ -207,7 +207,7 @@
 
 ### E
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Ehemakler | 婚姻居间人 |
 | Eigenbedarf ( | 出租人)自己需要 |
@@ -217,7 +217,7 @@
 | Eigenschaftsirrtum | 性质错误 |
 | Eigentum | 所有权 |
 | Eigentumsverletzung | 侵害所有权 |
-| Eigentumsvorbehalt | 所有权保留569 ff |
+| Eigentumsvorbehalt | 所有权保留 |
 | Eigentümer-Besitzer-Verhältnis (EBV) | 所有权人—占有人关系 |
 | Einbaupflicht des Verkäufers | 出卖人的安装义务 |
 | Einbeziehung von AGB | 一般交易条款的订入 |
@@ -233,7 +233,8 @@
 | Einwendung | 抗辩 |
 | Einwendungsdurchgriff | 抗辩穿越 |
 | Einwilligung | 允许(即事先的同意) |
-| Einziehungsermächtigung | 债权收取授权858,864,1217,1222 elektronische Form电子形式 |
+| Einziehungsermächtigung | 债权收取授权 |
+| elektronische Form | 电子形式 |
 | Empfangsbote | 受领传达人 |
 | Empfangsermächtigung | 受领授权 |
 | Empfangszuständigkeit | 受领资格 |
@@ -260,16 +261,16 @@
 | Ersatzherausgabe | 返还补偿 |
 | Ersatzlieferung | 交付替代物 |
 | Ersitzung | 时效取得 |
-| essentialia negotii ( | 合同的)必要条款；要素 |
+| essentialia negotii | 合同的)必要条款；要素 |
 | Europäisches Kaufrecht | 欧洲买卖法 |
-| Europäisches Vertragsrecht | 欧洲合同法16 ff |
+| Europäisches Vertragsrecht | 欧洲合同法 |
 | Mail | 电子邮件 |
 | Möglichkeit der Kenntnisnahme | 对一般交易条款订入合同的认识可能性 |
 | s .Vertragsauslegung ( | 参见词条合同解释) |
 
 ### F
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Fabrikationsfehler | 制造缺陷 |
 | Factoring | 保理 |
@@ -285,30 +286,30 @@
 | Fixgeschäft | 定期行为 |
 | Folgeschäden | 结果损害 |
 | Formerfordernisse | 形式要求 |
-| Formverstoß | 形式违反178 ff |
+| Formverstoß | 形式违反 |
 | Freistellungsanspruch | 免责请求权 |
-| Freizeichnungsklauseln | 责任限制条款1119 ff |
+| Freizeichnungsklauseln | 责任限制条款 |
 | Fremdbesitzerexzess | 他主占有之僭越 |
 | Fremdes Geschäft | 他人事务 |
 | Fremdgeschäftsführungswille | 管理他人事务之意思 |
 | Fristberechnung | 期间计算 |
-| Fälligkeit | 到期554,626,682,785,869,895,928 ff.,935,1131 ff |
+| Fälligkeit | 到期 |
 | Fürsorgepflicht | 身份法上的照顾义务 |
 | Heilung von Formfehlern | 形式瑕疵的治愈 |
 | Vollmachterteilung | 代理权授予的形式 |
 
 ### G
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| Auslegung des Verbotsgesetzes | 对禁止性规定的解释200 ff |
-| Beschaffungsrisiko | 种类之债的购置风险1101 ff |
+| Auslegung des Verbotsgesetzes | 对禁止性规定的解释 |
+| Beschaffungsrisiko | 种类之债的购置风险 |
 | Form | 追认的形式 |
 | Garantie | 担保 |
 | Garantiehaftung | 担保责任 |
 | Garantievertrag | 担保合同 |
 | Gastwirtshaftung | 旅店主责任 |
-| Gattungsschuld | 种类之债593 f.,791 ff |
+| Gattungsschuld | 种类之债 |
 | Gebrauchsstörung | 妨碍使用 |
 | Gebrauchsvorteile | 使用利益 |
 | Gefahrgeneigte Arbeit | 具有危险性的工作 |
@@ -320,7 +321,8 @@
 | Geldersatz | 金钱赔偿 |
 | Geldschuld | 金钱之债 |
 | Geltungserhaltende Reduktion | 维持效力的限缩 |
-| Gemeinsames Europäisches Kaufrecht | 欧洲共同买卖法21a hgemischte Vertrage  混合合同 |
+| Gemeinsames Europäisches Kaufrecht | 欧洲共同买卖法 |
+| gemischte Verträge | 混合合同 |
 | Genehmigung | 追认 |
 | Generalvollmacht | 概括代理权 |
 | Gerichtsstandvereinbarung | 对审判籍的约定 |
@@ -328,7 +330,7 @@
 | Gesamthand | 共同共有；合手共有 |
 | Gesamtschuld | 连带之债 |
 | Gesamtschuldner | 连带债务人 |
-| Gesamtvertretung | 共同代理413 ff |
+| Gesamtvertretung | 共同代理 |
 | Geschäft für den, den es angeht | 行为归属于其所关涉的人 |
 | Geschäftsanmaßung | 事务干涉 |
 | Geschäftsbesorgungsvertrag | 事务处理合同 |
@@ -338,7 +340,7 @@
 | Geschäftsgrundlage | 交易基础 |
 | Geschäftsherr | 本人、被管理人 |
 | gesetzliche Vertretung | 法定代理 |
-| Gesetzwidrigkeit | 违法性27,197 ff |
+| Gesetzwidrigkeit | 违法性 |
 | Gespaltene Auslegung | 分裂的解释 |
 | Gestaltungsrecht | 形成权 |
 | Gewahrleistung | 瑕疵担保 |
@@ -355,48 +357,48 @@
 | Gutgläubiger Erwerb | 善意取得 |
 | Gutgläubigkeit | 善意 |
 | Haftung für finanzielles Leistungsvermögen | 金钱给付能力 |
-| Herausgabe beim Rücktritt | 合同解除时使用利益的返还976 ff |
+| Herausgabe beim Rücktritt | 合同解除时使用利益的返还 |
 | Pflichten des Auftraggebers | 事务处理合同中委托人的义务 |
-| Pflichten des Geschäftsbesorgers | 事务处理人的义务676 ff |
-| Rechtsfolgen | 违法性的法律后果230 ff |
+| Pflichten des Geschäftsbesorgers | 事务处理人的义务 |
+| Rechtsfolgen | 违法性的法律后果 |
 | Verstoß gegen Schwarzarbeitsgesetz | 违反《黑工法》的违法性 |
 | Zahlungsvereinbarung | 金钱之债的支付约定 |
 
 ### H
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Haftung | 责任 |
 | Haftungsbeschränkung bei Notgeschäftsführung | 紧急管理中的责任限制 |
-| Haftungsmilderungen | 责任减轻1114 ff |
+| Haftungsmilderungen | 责任减轻 |
 | Haltbarkeitsgarantie | 保质期担保 |
 | Handeln für fremde Rechnung | 为他人利益的行为 |
-| Handeln in fremdem Namen | 以他人名义的行为391 ff |
+| Handeln in fremdem Namen | 以他人名义的行为 |
 | Handeln unter fremdem Namen | 冒名行为 |
 | Handelsgewerbe | 商事营业 |
 | Handelskauf | 商事买卖 |
 | Handelsklauseln | 贸易术语 |
 | Handlungsbevollmachtigter | 商事代理人 |
 | Handlungswille | 行为意思 |
-| Haustürgeschäft | 上门交易38,41,542,985 ff |
+| Haustürgeschäft | 上门交易 |
 | Herausgabe | 返还 |
 | Hersteller | 制造人 |
-| Hinterlegung | 提存636,880 ff |
+| Hinterlegung | 提存 |
 | Holschuld | 往取之债 |
 | Hypothetische Kausalität | 假设因果关系 |
 | Höhere Gewalt | 不可抗力 |
 
 ### I
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| Erklärungsirrtum | 表示错误307 ff |
+| Erklärungsirrtum | 表示错误 |
 | immaterielle Schäden | 非物质损害 |
 | Immaterielles Interesse | 非物质利益 |
 | Incoterms | 国际贸易术语解释通则 |
 | Informationsasymmetrie | 信息不对称 |
 | Informationspflichten | 信息义务 |
-| Inhaltsirrtum | 内容错误307 ff |
+| Inhaltsirrtum | 内容错误 |
 | Inhaltskontrolle bei AGB | 一般交易条款的内容审查 |
 | Inkassozession | 债权移转托管 |
 | Innenvollmacht | 代理权的内部授予 |
@@ -410,20 +412,20 @@
 | Irrtum | 错误 |
 | Irrtum des Empfangsboten | 受领传达人的错误 |
 | Irrtum des Erklärungsboten | 表示传达人的错误 |
-| Irrtum des Vertretenen | 被代理人的错误441 ff |
-| Irrtum des Vertreters | 代理人的错误328,404,439 ff |
+| Irrtum des Vertretenen | 被代理人的错误 |
+| Irrtum des Vertreters | 代理人的错误 |
 | Kalkulationsirrtum | 计算错误 |
 | Motivirrtum | 动机错误 |
 | Rechtsfolgenirrtum | 法律后果错误 |
-| Vorrang der Mängelhaftung | 瑕疵责任优先于错误305a f |
-| Vorrang der vertraglichen Risikoverteilung | 合同风险分配优先于错误300 ff |
-| Ü bermittlungsirrtum | 传达错误327 ff |
+| Vorrang der Mängelhaftung | 瑕疵责任优先于错误 |
+| Vorrang der vertraglichen Risikoverteilung | 合同风险分配优先于错误 |
+| Übermittlungsirrtum | 传达错误 |
 
 ### K
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| Abnahmepflicht des Käufers | 买受人的受领义务633 ff |
+| Abnahmepflicht des Käufers | 买受人的受领义务 |
 | Kappungsgrenze ( | 租金的)调整上限 |
 | Kardinalpflicht | 基本义务 |
 | Kardinalpflichten | 主要义务，基本义务 |
@@ -441,17 +443,17 @@
 | Kondiktionsausschluss wegen Sittenverstoßes | 因悖于良俗而排除不当得利 |
 | Konkretisierung | 特定化 |
 | Konnexitat | 牵连性 |
-| Kontrahierungszwang | 强制缔约29 ff |
+| Kontrahierungszwang | 强制缔约 |
 | Kündigung | 终止 |
 | Lieferpflicht des Verkäufers | 出卖人的送交义务 |
 | Minderung des Kaufpreises | 减价 |
 | Unternehmenskauf | 企业买卖 |
-| Zahlungspflicht des Käufers | 买受人的付款义务625 ff |
+| Zahlungspflicht des Käufers | 买受人的付款义务 |
 | Änderungskündigung | 变更合同时的通知终止 |
 
 ### L
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Lastschriftverfahren | 扣款程序 |
 | Leasingvertrag | 融资租赁合同 |
@@ -460,7 +462,7 @@
 | Leistung | 给付 |
 | Leistung an Erfüllungs statt | 代替清偿的给付 |
 | Leistung erfüllungshalber | 出于清偿原因的给付 |
-| Leistung Zug um Zug | 同时给付892 ff |
+| Leistung Zug um Zug | 同时给付 |
 | Leistungskondiktion | 给付型不当得利 |
 | Leistungsnähe | 在给付行为的附近 |
 | Leistungsort | 给付地 |
@@ -468,17 +470,17 @@
 | Leistungsverhältnis | 给付关系 |
 | Leistungsverweigerungsrecht | 给付拒绝权 |
 | Leistungszweck | 给付目的 |
-| Lieferort | 送交地547 ff |
+| Lieferort | 送交地 |
 | Lieferzeit | 送交时间 |
 
 ### M
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| Ausschluss der Verkäuferhaftung | 出卖人责任的排除541,614 ff |
+| Ausschluss der Verkäuferhaftung | 出卖人责任的排除 |
 | Formvorschriften | 形式规定 |
-| Mahnung | 催告929,1136 ff |
-| Maklervertrag | 居间合同270,280,664 ff |
+| Mahnung | 催告 |
+| Maklervertrag | 居间合同 |
 | Mangel der Mietsache | 租赁物瑕疵 |
 | Mangelfolgeschaden | 瑕疵结果损害 |
 | Mangelfolgeschäden | 瑕疵后果损害 |
@@ -486,11 +488,11 @@
 | Mankolieferung | 缺额送交 |
 | marktbeherrschende Stellung | 市场支配地位 |
 | Marktversagen | 市场失灵 |
-| Mehrvertretung | 多方代理449 ff |
+| Mehrvertretung | 多方代理 |
 | Mentalreservation | 真意保留 |
 | Miete | 租赁(合同);租金 |
 | Mieterhöhung | 提高租金 |
-| Mieterschutz | 租赁合同中的承租人保护713,1002 ff |
+| Mieterschutz | 租赁合同中的承租人保护 |
 | Mietkaution | 租赁押金 |
 | Mietspiegel | 租金参考表 |
 | Mietvertrag | 租赁合同 |
@@ -509,15 +511,15 @@
 | Mängelansprüche des Mieters | 承租人的瑕疵请求权 |
 | Mängeleinrede | 瑕疵抗辩权 |
 | Pfandrecht des Vermieters | 租赁合同中出租人的留置权 |
-| Vorrang gegenüber der Irrtumsanfechtung | 瑕疵请求权优先于错误撤销305a f |
+| Vorrang gegenüber der Irrtumsanfechtung | 瑕疵请求权优先于错误撤销 |
 | Wohnungsmietvertrag | 住房租赁合同 |
 | Zurückbehaltung der Miete | 租金的留置 |
 
 ### N
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| "neutrale Geschäfte“ “ | 中性行为 |
+| neutrale Geschäfte | 中性行为 |
 | Abrede | 不出具账单的约定 |
 | Fehlschlagen | 事后补充履行失败 |
 | Nachbesserung | 修补 |
@@ -526,13 +528,13 @@
 | Nachlieferung | 再交付 |
 | Naturalobligation | 自然债 |
 | Naturalrestitution | 恢复原状 |
-| Nebenpflichten | 从义务484,487 ff |
+| Nebenpflichten | 从义务 |
 | Nebenpflichtverletzung | 违反从义务 |
 | Negatives Interesse | 消极利益 |
 | Negotium (utiliter) gestum | （有效的）事务管理 |
 | Neutrales Geschäft | 中立行为 |
 | Nichtleistungskondiktion | 非给付型不当得利 |
-| Nichtvermögensschaden | 非财产损害1046 ff |
+| Nichtvermögensschaden | 非财产损害 |
 | Notar | 公证人 |
 | Notgeschäftsführung | 紧急无因管理 |
 | Novation | 更新 |
@@ -542,13 +544,13 @@
 | Offenkundigkeitsprinzip | 公示性原则 |
 | Organe der juristischen Person | 法人的机关 |
 | Unverhältnismäßigkeit | 事后补充履行不合比例 |
-| Vorrang der Nacherfüllung | 事后补充履行的优先性957 ff |
+| Vorrang der Nacherfüllung | 事后补充履行的优先性 |
 | Zurückbehaltung des Kaufpreises | 对买卖价款的留置 |
 | ökonomische Analyse des Rechts | 法律的经济分析 |
 
 ### O
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Objektiv fremdes Geschäft | 客观他人事务 |
 | Objektiver Erklärungswert | 客观表示价值 |
@@ -557,7 +559,7 @@
 
 ### P
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Pachtvertrag | 用益租赁合同 |
 | Peremptorische Einrede | 永久抗辩权 |
@@ -580,17 +582,17 @@
 
 ### R
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| Durchführung | 解除的实行974 ff |
+| Durchführung | 解除的实行 |
 | Rahmenvereinbarung bei AGB | 通过框架协议订立一般交易条款 |
 | Ratenlieferungsvertrag | 分批送交合同 |
 | Realakt | 事实行为 |
 | Recht zum Besitz | 占有的本权 |
-| Recht zur Lüge | 说谎权348 ff |
+| Recht zur Lüge | 说谎权 |
 | Recht zur zweiten Andienung | 第二次给付之机会的权利 |
 | rechtmäßiges Alternativverhalten | 合法的替代行为 |
-| Rechtsbindungswille | 受法律拘束的意思31 ff |
+| Rechtsbindungswille | 受法律拘束的意思 |
 | Rechtsfortbildung, richtlinienkonforme | 与欧盟指令相符的法律续造 |
 | Rechtsfortwirkungsanspruch | 权利继续效果的请求权 |
 | Rechtsfähigkeit | 权利能力 |
@@ -599,11 +601,11 @@
 | Rechtsgrundverweisung | 构成要件的准用 |
 | Rechtsgüter, geschützte | 被保护的法益 |
 | Rechtskauf | 权利买卖 |
-| Rechtsmangel | 权利瑕疵596 ff |
+| Rechtsmangel | 权利瑕疵 |
 | Rechtsmissbrauch | 权利滥用 |
 | Rechtsmäßiges Alternativverhalten | 合法的替代行为 |
 | Rechtsschein bei Willenserklärung | 意思表示中的权利外观 |
-| Rechtsscheinvollmacht | 表见代理权419,424,431 ff |
+| Rechtsscheinvollmacht | 表见代理权 |
 | Rechtsverfolgungskosten | 权利追及费用 |
 | Rechtswidrigkeit | 违法性 |
 | Regressanspruch | 追偿权 |
@@ -611,7 +613,7 @@
 | Richtlinien der EG | 欧盟法院指令 |
 | Richtlinienkonforme Auslegung | 与欧盟指令相符的解释 |
 | Risikoerhöhung | 风险增加 |
-| Risikoverteilung | 风险分配829 ff |
+| Risikoverteilung | 风险分配 |
 | Rückabwicklung von Rechtsgeschäften | 法律行为的返还关系 |
 | Rückforderungsdurchgriff | 返还请求权穿越 |
 | Rückgewährschuldverhältnis | 回复性债务关系 |
@@ -619,21 +621,21 @@
 | Rückgriffskondiktion | 追索之不当得利 |
 | Rücktritt | 解除 |
 | Teilrücktritt | 部分解除 |
-| Transportrisiko | 运输风险的风险分配838 ff |
+| Transportrisiko | 运输风险的风险分配 |
 | Verlust des Rücktrittsrechts durch Zeitlauf | 因期间经过而丧失解除权 |
 
 ### S
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Aufwendungen als Schäden | 作为损害的费用 |
 | Ausnutzung einer Zwangslage | 利用他人急迫情势的违反善良风俗 |
 | Austauschmethode | 损害赔偿的交换计算法 |
-| Bürgschaftsvertrage | 保证合同违反善良风俗223 ff |
+| Bürgschaftsvertrage | 保证合同违反善良风俗 |
 | Darlehensverträge | 贷款合同违反善良风俗 |
 | Differenzmethode | 损害赔偿的差额计算法 |
-| Geliebtentestament “ | 二奶遗赠违反善良风俗 |
-| Haftung wegen Pflichtverletzung | 因违反义务的专家责任520 ff |
+| Geliebtentestament | 二奶遗赠违反善良风俗 |
+| Haftung wegen Pflichtverletzung | 因违反义务的专家责任 |
 | Missverhältnis von Leistung und Gegenleistung | 给付与对待给付不相称违反善良风俗 |
 | Prostituiertenverträge | 卖淫合同违反善良风俗 |
 | Sachmangel | 物之瑕疵 |
@@ -646,7 +648,7 @@
 | Schadensersatz | 损害赔偿 |
 | Schadensersatzanspruch | 损害赔偿请求权 |
 | Schadensliquidation im Drittinteresse | 第三人利益损害清算 |
-| Schadensminderungsobliegenheit | 减轻损害的不真正义务1054 ff |
+| Schadensminderungsobliegenheit | 减轻损害的不真正义务 |
 | Schadensminderungspflicht | 减损义务 |
 | Schadenspauschalierung | 损害的总和化 |
 | Schadensverlagerung | 损害的移转 |
@@ -657,18 +659,18 @@
 | Schlüsselgewalt | 钥匙权 |
 | Schmerzensgeld | 精神损害抚慰金 |
 | Schriftform | 书面形式 |
-| Schriftformklausel | 书面形式条款190 ff |
+| Schriftformklausel | 书面形式条款 |
 | Schuldanerkenntnis | 债务承认 |
 | Schuldbeitritt | 债务加入 |
 | Schuldrecht | 债法 |
 | Schuldrecht AT (Allgemeiner Teil) | 债法总则 |
 | Schuldrecht BT (Besonderer Teil) | 债法分则 |
-| Schuldverhaltnis | 债务关系 |
 | Schuldverhältnis | 债务关系 |
-| Schuldübernahme | 债务承担1258,1260,1262 ff |
+| Schuldverhältnis | 债务关系 |
+| Schuldübernahme | 债务承担 |
 | Schutzgesetz | 保护性法律 |
 | Schutzpflicht | 保护义务 |
-| Schutzpflichten | 保护义务34 f.,75,491 ff.,624,639,681,708,916,1029 ff |
+| Schutzpflichten | 保护义务 |
 | Schutzzwecktheorie | 保护目的理论 |
 | Schwarzarbeit | 黑工 |
 | Schönheitsreparatur | 美观修缮 |
@@ -677,7 +679,7 @@
 | Selbstbelieferungsvorbehalt | 亲自供货的保留 |
 | Selbsteintritt | 介入权 |
 | Selbstgefährdung | 自甘风险 |
-| Selbsthilfeverkauf | 自助出售880 ff |
+| Selbsthilfeverkauf | 自助出售 |
 | Selbstkontrahieren | 自我缔约 |
 | Selbsttransport | 自行运输 |
 | Selbstvornahme | 自行实施 |
@@ -695,7 +697,7 @@
 | stellvertretendescommodum | 替代利益 |
 | Stellvertretung | 代理 |
 | Strafgedanke im Zivilrecht | 民法中的刑罚思想 |
-| Strohmann “ | 稻草人(间接代理的一种类型) |
+| Strohmann | 稻草人(间接代理的一种类型) |
 | Stundung | 延期 |
 | Stückkauf | 特定物买卖 |
 | Subjektiv fremdes Geschäft | 主观他人事务 |
@@ -707,14 +709,14 @@
 | Vereinbarung eines Erfolgshonorars | 成事酬金的约定违反善良风俗 |
 | Verstöße gegen die Sexualmoral | 违反性道德违反善良风俗 |
 | Wettbewerbsverbote | 竞争禁止违背善良风俗 |
-| Zurechnung der Kenntnisse des Vertreters | 代理人的知情归于被代理人439 ff |
-| Zurechnung der Willensmängel des Vertreters | 代理人的意思瑕疵归入被代理人439 ff |
+| Zurechnung der Kenntnisse des Vertreters | 代理人的知情归于被代理人 |
+| Zurechnung der Willensmängel des Vertreters | 代理人的意思瑕疵归入被代理人 |
 
 ### T
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| Schadensersatzpflicht des Täuschenden | 欺诈人的损害赔偿义务359 ff |
+| Schadensersatzpflicht des Täuschenden | 欺诈人的损害赔偿义务 |
 | Tagespreisklausel | 当日价格条款 |
 | Taschengeldparagraph | 零用钱条款 |
 | Teilleistung | 部分给付 |
@@ -729,12 +731,12 @@
 | Treu und Glauben | 诚信(原则) |
 | Treuhänder | 财产托管人(间接代理的一种类型) |
 | Täuschung | 欺诈 |
-| Täuschung, arglistige | 欺诈，恶意的欺诈335 ff |
+| Täuschung, arglistige | 欺诈，恶意的欺诈 |
 | Wohnrechtevertrag | 分时居住权合同 |
 
 ### U
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
 | Umgehungsverbot | 规避禁止 |
 | Umschuldungsvereinbarung | 债务转换协议 |
@@ -760,7 +762,7 @@
 | Untersuchungspflicht des Verkäufers | 出卖人的检查义务 |
 | Untervermietung | 转租 |
 | Untervollmacht | 复代理权 |
-| Unverhältnismäßigkeit der Leistung | 给付不合比例809 ff |
+| Unverhältnismäßigkeit der Leistung | 给付不合比例 |
 | Unzumutbarkeit der Leistung | 给付的不可期待性 |
 | Unzumutbarkeit der Nachfristsetzung | 不可期待设置补充履行的期限 |
 | Ursachenzusammenhang | 因果关联 |
@@ -772,17 +774,17 @@
 
 ### V
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| "verbundene Verträge“ “ | 并联合同 |
+| verbundene Verträge | 并联合同 |
 | Anpassung bei gestörter Geschäftsgrundlage | 法律行为基础障碍情形下的合同调整 |
-| Aufhebungsgründe | 合同终止的原因911 ff |
-| Beschränkung | 代理权的限制447 ff |
+| Aufhebungsgründe | 合同终止的原因 |
+| Beschränkung | 代理权的限制 |
 | Haftung nach Eintritt des Verzugs | 履行迟延的责任 |
 | Hemmung | 消灭时效的停止 |
-| Kontrolle | 消费者保护作为一般交易条款审查的保护目的243 ff |
-| Missbrauch | 代理权的滥用416,447 f.,456f.,463 ff |
-| Sanktionen | 合同法上的约束26 ff |
+| Kontrolle | 消费者保护作为一般交易条款审查的保护目的 |
+| Missbrauch | 代理权的滥用 |
+| Sanktionen | 合同法上的约束 |
 | Umfang | 代理权的范围 |
 | Verbandsklage | 集体诉讼 |
 | Verbotene Eigenmacht | 禁止私力 |
@@ -790,7 +792,7 @@
 | Verbraucherbauvertrag | 消费者建筑合同 |
 | Verbraucherbegriff | 消费者的概念 |
 | Verbraucherdarlehen | 消费者借贷 |
-| Verbraucherschutz | 消费者保护16,39 ff |
+| Verbraucherschutz | 消费者保护 |
 | Verbrauchsgüterkauf | 消费品买卖 |
 | Verbundenes Geschäft | 关联行为 |
 | Verdienstausfall | 停业 |
@@ -799,12 +801,12 @@
 | Verfügungsbefugnis | 处分权限 |
 | Verfügungsbegriff | 处分概念 |
 | Verfügungsgeschäft | 处分行为 |
-| Verfügungsgeschäfte | 处分行为 - |
+| Verfügungsgeschäfte | 处分行为 |
 | Vergleichsmiete | 对比性租金 |
 | Vergütungsgefahr | 价金风险 |
 | Verjährung | 时效 |
 | Verkehrssicherungspflicht | 交往安全义务 |
-| Verkehrssicherungspflichten | 交往安全义务501 ff |
+| Verkehrssicherungspflichten | 交往安全义务 |
 | Verkäuferpflichten | 出卖人义务 |
 | Verletzergewinn | 侵害人得益 |
 | Verlust des Rücktrittsrechts durch Zeitablauf | 因期间经过而丧失解除权 |
@@ -818,7 +820,7 @@
 | Verschulden | 过错 |
 | Verschulden bei Vertragsverhandlungen | 合同磋商过程中的过错 |
 | Verschuldensprinzip | 过错标准 |
-| Versendungskauf | 寄送买卖587,835 ff |
+| Versendungskauf | 寄送买卖 |
 | Versicherungsvertrag | 保险合同 |
 | Versionsklage | 转化物之诉 |
 | Vertrag | 合同 |
@@ -826,7 +828,7 @@
 | Vertragsauslegung | 合同解释 |
 | Vertragsfreiheit | 合同自由 |
 | Vertragsstrafe | 违约金 |
-| Vertragsverhandlungen | 合同磋商498 ff |
+| Vertragsverhandlungen | 合同磋商 |
 | Vertragsübernahme | 合同承担 |
 | Vertrauenshaftung des Produzenten | 生产者的信赖责任 |
 | Vertrauensschaden | 信赖损失 |
@@ -834,25 +836,25 @@
 | Vertretenmüssen | 可归责 |
 | Vertreter ohne Vertretungsmacht | 无权代理人 |
 | Vertretung | 代理 |
-| Vertretungsmacht | 代理权392 f.,395,401,411 ff |
+| Vertretungsmacht | 代理权 |
 | Verwahrungsvertrag | 保管合同 |
-| Verwendung | 使用一般交易条款情形下的消费者保护243 ff |
+| Verwendung | 使用一般交易条款情形下的消费者保护 |
 | Verwendungen | 费用 |
 | Verwendungsersatzansprüche | 费用补偿请求权 |
 | Verwendungskondiktion | 费用型不当得利 |
 | Verwendungsrisiko | 费用风险 |
 | Verzug | 迟延 |
-| Verzögerungsschaden | 迟延损害918,971,1024,1052,1128 ff |
+| Verzögerungsschaden | 迟延损害 |
 | Vindikation | 原物返还请求权 |
 | Vindikationslage | 返还适状 |
 | Volljährigkeit | 成年 |
-| Vollmacht | 代理权412 ff |
-| Vollmachtsurkunde | 代理证书417,434 ff |
+| Vollmacht | 代理权 |
+| Vollmachtsurkunde | 代理证书 |
 | Vorausabtretung | 预先债权让与 |
 | Vorhersehbarkeit | 可预见性 |
 | Vorleistung | 提前给付 |
 | Vormund | 监护人 |
-| Vorrang gegenüber Irrtumsanfechtung | 合同解释先行于错误撤销297 ff |
+| Vorrang gegenüber Irrtumsanfechtung | 合同解释先行于错误撤销 |
 | Vorsatz | 故意 |
 | Vorschuss | 预先支付、预付款 |
 | Vorsätzliche sittenwidrige Schädigung | 故意以悖俗方式加害他人 |
@@ -860,14 +862,14 @@
 
 ### W
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| Abnahme des Werks | 工作成果的验收682 ff |
-| Anfechtbarkeit | 意思表示的可撤销性290 ff |
+| Abnahme des Werks | 工作成果的验收 |
+| Anfechtbarkeit | 意思表示的可撤销性 |
 | Fehlen des Erklärungsbewusstseins | 缺少表示意识 |
 | Fehlen des Handlungswillens | 缺少行为意思 |
-| Nichtigkeit | 意思表示无效286 ff |
-| Pflichten des Unternehmers | 承揽合同中承揽人的义务643 ff |
+| Nichtigkeit | 意思表示无效 |
+| Pflichten des Unternehmers | 承揽合同中承揽人的义务 |
 | Unverhältnismäßigkeit der Nacherfüllung | 承揽合同中事后补充履行的不合比例 |
 | Wahlschuld | 选择之债 |
 | Wandelung | 因瑕疵而导致的解除 |
@@ -881,35 +883,35 @@
 | Wertsteigerung durch Geschäftsführung | 因事务管理而增加价值 |
 | Wesentliche Bestandteile | 重要成分 |
 | Wettbewerbsverbot | 竞争禁止 |
-| Widerruf | 撤回42,170,912,985 ff |
-| Widerrufsdurchgriff “ | 撤回穿透 |
+| Widerruf | 撤回 |
+| Widerrufsdurchgriff | 撤回穿透 |
 | Wille des Geschäftsherrn | 无因管理本人的意思 |
 | Willenserklärung | 意思表示 |
 | Willenstheorie | 意思说 |
 | Wissensvertreter | 知情的代理人 |
-| Wissenszurechnung | 知情的归入439 ff |
-| Wohnungsmiete | 住房租赁713 ff.,1005 ff |
+| Wissenszurechnung | 知情的归入 |
+| Wohnungsmiete | 住房租赁 |
 | Wucherdarlehen | 高利贷 |
 | Zurückbehaltung der Vergütung | 承揽合同中对报酬的留置 |
 
 ### Z
 
-| German | Chinese |
+| 德文 | 中文 |
 |--------|---------|
-| Verzugseintritt | 履行迟延情形下的付款1138,1140,1143 ff |
-| Verzugsfolgen | 付款迟延的法律后果1158 ff |
+| Verzugseintritt | 履行迟延情形下的付款 |
+| Verzugsfolgen | 付款迟延的法律后果 |
 | Zahlung | 支付价款(简称付款) |
 | Zahlungsdienstevertrag | 付款服务合同中的付款 |
 | Zufallshaftung | 事变责任 |
 | Zug-um-Zug-Leistung | 同时履行给付 |
-| Zugang | 到达90 ff |
+| Zugang | 到达 |
 | Zurückbehaltungsrecht | 留置权 |
 | Zusicherung einer Eigenschaft | 担保品质 |
 | Zuwendung | 给予 |
 | Zweckbestimmung | 目的之确定 |
 | Zweckerreichung | 目的实现 |
 | Zwecksetzung | 目的确立 |
-| Zweckvereitelung | 目的落空804 ff.,829,1017 ff |
+| Zweckvereitelung | 目的落空 |
 | Zweckverfehlung | 欠缺目的 |
 | Zweikondiktionentheorie | 双重不当得利说 |
-| zwingendes Vertragsrecht | 强制性的合同法36 ff |
+| zwingendes Vertragsrecht | 强制性的合同法 |
